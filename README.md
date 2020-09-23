@@ -1,4 +1,4 @@
 # Flask
-Proyecto usando Flask y mysql
+CRUD usando Flask y mysql
 
 https://inventarionicolas.herokuapp.com/
